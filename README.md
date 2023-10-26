@@ -1,2 +1,3 @@
 # devopslab-template
-Repositório Template para Importação do Laboratório DevOps &amp; Cloud
+
+### Aplicação para o LAB da Profa. Gabi Dias
